@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "118053547334",
+    "firebase_url": "https://emax-e817a-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "emax-e817a",
+    "storage_bucket": "emax-e817a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118053547334:android:4780ef925b260be366c947",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118053547334-pohf6qek0lshf9t4vcr3hhjftp5ifnb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.final_project",
+            "certificate_hash": "292ce3773ddf38e860cd84d24cbf67bc14c39b42"
+          }
+        },
+        {
+          "client_id": "118053547334-jh18kno6larqpkfj9hltjf4h74uveqrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Z5Vzn8JHSaZ3dxgCKcnja9O9NP4wsYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118053547334-jh18kno6larqpkfj9hltjf4h74uveqrg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "118053547334-400oqkjsaocemm8qatceosgn3go13182.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.finalProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
