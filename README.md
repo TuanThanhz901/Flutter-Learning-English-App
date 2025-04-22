@@ -1,8 +1,8 @@
 # 📱 Learning English App - EMAX
 
 <p align="center">
-  <img src="assets/images/img0.png" alt="Demo 1" width="300" height="600" style="display:inline-block; margin-right:10px;"/>
-  <img src="assets/images/img1.png" alt="Demo 2" width="300" height="600" style="display:inline-block;"/>
+  <img src="assets/images/img0.png" alt="Demo 1" width="300" height="500" style="display:inline-block; margin-right:10px;"/>
+  <img src="assets/images/img1.png" alt="Demo 2" width="300" height="500" style="display:inline-block;"/>
 </p>
 
 A **cross-platform mobile application** built with **Flutter & Dart** to support English learners with interactive exercises and real-time communication features.
